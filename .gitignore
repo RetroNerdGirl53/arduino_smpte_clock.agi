@@ -1,0 +1,12 @@
+# Envelope-owned scratch, never committed.
+sandbox/**
+!sandbox/.gitkeep
+
+# Soft-delete buffer.
+.trash/**
+!.trash/.gitkeep
+
+# Local OS noise.
+.DS_Store
+Thumbs.db
+*.log

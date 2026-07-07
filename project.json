@@ -1,0 +1,12 @@
+{
+  "name": "stuff and things",
+  "createdAt": "2026-07-07T23:11:35.187Z",
+  "type": null,
+  "description": "",
+  "hosting": {
+    "enabled": false,
+    "hostname": "",
+    "mode": "development"
+  },
+  "repos": []
+}
