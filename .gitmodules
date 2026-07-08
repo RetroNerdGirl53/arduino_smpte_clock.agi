@@ -1,0 +1,3 @@
+[submodule "repos/arduino_smpte_clock"]
+	path = repos/arduino_smpte_clock
+	url = git@github.com:RetroNerdGirl53/arduino_smpte_clock.git
